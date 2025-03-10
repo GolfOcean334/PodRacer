@@ -19,6 +19,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	]
 }
