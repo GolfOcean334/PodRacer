@@ -46,7 +46,7 @@ Installation
 Licence
 -------
 
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/GolfOcean334/PodRacer/blob/main/LICENSE) file for details.
 
 
 #### Français
@@ -93,4 +93,4 @@ Installation
 Licence
 -------
 
-Ce projet est sous la License MIT. Voir le fichier [LICENSE]() pour plus de détails.
+Ce projet est sous la License MIT. Voir le fichier [LICENSE](https://github.com/GolfOcean334/PodRacer/blob/main/LICENSE) pour plus de détails.
